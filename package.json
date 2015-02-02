@@ -3,5 +3,29 @@
     "gamma": "^1.0.0",
     "mathjs": "^1.2.0",
     "simpsons-rule": "^1.0.0"
-  }
+  },
+  "name": "incomplete-gamma",
+  "version": "1.0.0",
+  "description": "A set of functions for calculating the lower and upper incomplete gamma functions",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:chipbell4/incomplete-gamma.git"
+  },
+  "keywords": [
+    "gamma",
+    "incomplete",
+    "math",
+    "integrate"
+  ],
+  "author": "Chip Bell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chipbell4/incomplete-gamma/issues"
+  },
+  "homepage": "https://github.com/chipbell4/incomplete-gamma"
 }
