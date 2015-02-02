@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gamma": "^1.0.0",
+    "mathjs": "^1.2.0",
+    "simpsons-rule": "^1.0.0"
+  }
+}
