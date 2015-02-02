@@ -14,7 +14,7 @@ var lowerIncompleteGamma = function(s, x) {
         return Math.pow(t, s - 1) * Math.exp( -t);
     };
 
-    return simpsons(F, 0, x);
+    return simpsons(F, 0, x, Math.round(100 * x));
 };
 
 /**
