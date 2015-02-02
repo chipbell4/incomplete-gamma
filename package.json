@@ -5,7 +5,7 @@
     "simpsons-rule": "^1.0.0"
   },
   "name": "incomplete-gamma",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A set of functions for calculating the lower and upper incomplete gamma functions",
   "main": "index.js",
   "devDependencies": {},
